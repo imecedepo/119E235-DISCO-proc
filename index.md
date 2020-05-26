@@ -1,4 +1,4 @@
-## DISCO-Proc: DIstributed Storage, near-optimal COding and Protocol design for data caching through device to device communications in cooperative cellular networks.
+## DISCO-Proc: DIstributed Storage, near-optimal COding and Protocol design for data caching through device to device communications in cooperative cellular networks. [Turkish Version](https://imecedepo.github.io/119R235-DISCO-proc).
 
 In cellular networks, with the popular files being cached, the interaction between devices significantly reduces the
 communication load on the base station (BS). The caching can be accomplished by distributing the partitions of a popular
